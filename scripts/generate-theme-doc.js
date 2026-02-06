@@ -17,7 +17,7 @@ With inbuilt themes, you can customize the look of the card without doing any ma
 Use \`?theme=THEME_NAME\` parameter like so:
 
 \`\`\`md
-![Anurag's GitHub stats](https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&theme=dark&show_icons=true)
+![Sajjadjim GitHub stats](https://laguages-stats-sajjadjim.vercel.app/api?username=sajjadjim&theme=dark&show_icons=true)
 \`\`\`
 
 ## Stats
